@@ -9,3 +9,7 @@ This is a COMP 3608 S-Rank Mission project focused on the Kaggle March Machine L
 **Problem Statement**
 
 The objective of this project is to forecast the outcomes of the NCAA Division 1 Men's and Women's basketball championships in 2025. To make these forecasts, we will utilize historical game data from the thousands of NCAA basketball games played between Division I college basketball teams each season. Machine learning algorithms that examine this historical data will be used. We will be use the results to predict the outcome of every potential matchup with the aid of these models. Sports experts, coaches, bettors, and sponsors may find our forecasts useful to make better judgments.
+
+**Evaluation Metric**
+
+- Brier Score: measures the accuracy of the probabilitic predictions 
