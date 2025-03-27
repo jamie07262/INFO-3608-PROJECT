@@ -1,5 +1,5 @@
 # INFO-3608-PROJECT
-![img]("C:\Users\User\Downloads\bball-logo.png")
+![img](image/bball-logo.png)
 ## March Machine Learning Mania 2025
 
 **Project Overview**
